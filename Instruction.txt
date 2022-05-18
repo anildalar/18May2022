@@ -1,0 +1,18 @@
+PNG = Portable Network Graphics
+
+JPEG = Joint Photographic Expert Group
+
+anchor tag
+
+<a></a>
+
+<tag attribute="value">Content Area</tag>
+
+href= hyperlink reference
+
+http =  Hypertext transfer protocol
+https =  Hypertext transfer protocol secure
+
+
+target="_blank"   = New Tab
+target="_self"   = Existing Tab
