@@ -1,3 +1,7 @@
+How to use Image in Web Page ?
+
+How to Jump from one page to another in website?
+
 PNG = Portable Network Graphics
 
 JPEG = Joint Photographic Expert Group
